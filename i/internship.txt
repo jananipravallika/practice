@@ -1,0 +1,23 @@
+staging and commiting 
+commands
+sync between link
+commit changes staging enviornoment
+branching,merging,command
+
+
+
+explain
+git
+version control system
+types of vcs
+github 
+y github
+download github https://desktop.github.com/
+installing in c
+open git blash after installing
+configure
+version command
+clone command we intial setup to work
+
+
+
